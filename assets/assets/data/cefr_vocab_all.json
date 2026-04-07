@@ -1,0 +1,3903 @@
+{
+  "meta": {
+    "source": "Goethe-Institut CEFR Wortlisten A1/A2/B1",
+    "total_nouns": 556,
+    "a1_count": 246,
+    "a2_count": 229,
+    "b1_count": 81
+  },
+  "nouns": [
+    {
+      "artikel": "die",
+      "de": "Adresse",
+      "plural": "Adressen",
+      "en": "address",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Alter",
+      "plural": "Alter",
+      "en": "age",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Ampel",
+      "plural": "Ampeln",
+      "en": "traffic light",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Anfang",
+      "plural": "Anfänge",
+      "en": "beginning",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Angebot",
+      "plural": "Angebote",
+      "en": "offer",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Anleitung",
+      "plural": "Anleitungen",
+      "en": "instructions",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "Anruf",
+      "plural": "Anrufe",
+      "en": "call",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Antwort",
+      "plural": "Antworten",
+      "en": "answer",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Anwalt",
+      "plural": "Anwälte",
+      "en": "lawyer",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "Anzug",
+      "plural": "Anzüge",
+      "en": "suit",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Apartment",
+      "plural": "Apartments",
+      "en": "apartment",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Apfel",
+      "plural": "Äpfel",
+      "en": "apple",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Apotheke",
+      "plural": "Apotheken",
+      "en": "pharmacy",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Apparat",
+      "plural": "Apparate",
+      "en": "device",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Arbeit",
+      "plural": "Arbeiten",
+      "en": "work",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Arbeitsplatz",
+      "plural": "Arbeitsplätze",
+      "en": "workplace",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Arm",
+      "plural": "Arme",
+      "en": "arm",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Arzt",
+      "plural": "Ärzte",
+      "en": "doctor",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Aufenthalt",
+      "plural": "Aufenthalte",
+      "en": "stay/residence",
+      "level": "B1"
+    },
+    {
+      "artikel": "die",
+      "de": "Aufgabe",
+      "plural": "Aufgaben",
+      "en": "task",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Aufnahme",
+      "plural": "Aufnahmen",
+      "en": "recording/photo",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "Aufzug",
+      "plural": "Aufzüge",
+      "en": "elevator",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Auge",
+      "plural": "Augen",
+      "en": "eye",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Ausbildung",
+      "plural": "Ausbildungen",
+      "en": "training/education",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Ausgang",
+      "plural": "Ausgänge",
+      "en": "exit",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Ausstellung",
+      "plural": "Ausstellungen",
+      "en": "exhibition",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Ausweis",
+      "plural": "Ausweise",
+      "en": "ID card",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Auto",
+      "plural": "Autos",
+      "en": "car",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Autobahn",
+      "plural": "Autobahnen",
+      "en": "highway",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Baby",
+      "plural": "Babys",
+      "en": "baby",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Babysitter",
+      "plural": "Babysitter",
+      "en": "babysitter",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Bad",
+      "plural": "Bäder",
+      "en": "bathroom",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Bagger",
+      "plural": "Bagger",
+      "en": "excavator",
+      "level": "B1"
+    },
+    {
+      "artikel": "die",
+      "de": "Bahn",
+      "plural": "Bahnen",
+      "en": "train",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Bahnhof",
+      "plural": "Bahnhöfe",
+      "en": "train station",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Bahnsteig",
+      "plural": "Bahnsteige",
+      "en": "platform",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Balkon",
+      "plural": "Balkone",
+      "en": "balcony",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Ball",
+      "plural": "Bälle",
+      "en": "ball",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Banane",
+      "plural": "Bananen",
+      "en": "banana",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Band",
+      "plural": "Bands",
+      "en": "band",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Bank",
+      "plural": "Banken",
+      "en": "bank",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Basketball",
+      "plural": "Basketbälle",
+      "en": "basketball",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Batterie",
+      "plural": "Batterien",
+      "en": "battery",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "Bauch",
+      "plural": "Bäuche",
+      "en": "belly",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Baum",
+      "plural": "Bäume",
+      "en": "tree",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Baustelle",
+      "plural": "Baustellen",
+      "en": "construction site",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Becher",
+      "plural": "Becher",
+      "en": "mug/cup",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "Behälter",
+      "plural": "Behälter",
+      "en": "container",
+      "level": "B1"
+    },
+    {
+      "artikel": "das",
+      "de": "Bein",
+      "plural": "Beine",
+      "en": "leg",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Beispiel",
+      "plural": "Beispiele",
+      "en": "example",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Beruf",
+      "plural": "Berufe",
+      "en": "profession",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Besen",
+      "plural": "Besen",
+      "en": "broom",
+      "level": "B1"
+    },
+    {
+      "artikel": "das",
+      "de": "Bett",
+      "plural": "Betten",
+      "en": "bed",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Bettwäsche",
+      "plural": "Bettwäsche",
+      "en": "bedding",
+      "level": "B1"
+    },
+    {
+      "artikel": "die",
+      "de": "Bibliothek",
+      "plural": "Bibliotheken",
+      "en": "library",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Bier",
+      "plural": "Biere",
+      "en": "beer",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Bild",
+      "plural": "Bilder",
+      "en": "picture",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Bildschirm",
+      "plural": "Bildschirme",
+      "en": "screen",
+      "level": "B1"
+    },
+    {
+      "artikel": "die",
+      "de": "Birne",
+      "plural": "Birnen",
+      "en": "pear",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Blatt",
+      "plural": "Blätter",
+      "en": "leaf/sheet",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Bleistift",
+      "plural": "Bleistifte",
+      "en": "pencil",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Blog",
+      "plural": "Blogs",
+      "en": "blog",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Blume",
+      "plural": "Blumen",
+      "en": "flower",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Bluse",
+      "plural": "Blusen",
+      "en": "blouse",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Boden",
+      "plural": "Böden",
+      "en": "floor",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Bohne",
+      "plural": "Bohnen",
+      "en": "bean",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Brett",
+      "plural": "Bretter",
+      "en": "board/plank",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "Brief",
+      "plural": "Briefe",
+      "en": "letter",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Briefkasten",
+      "plural": "Briefkästen",
+      "en": "mailbox",
+      "level": "B1"
+    },
+    {
+      "artikel": "die",
+      "de": "Briefmarke",
+      "plural": "Briefmarken",
+      "en": "stamp",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Brille",
+      "plural": "Brillen",
+      "en": "glasses",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Brot",
+      "plural": "Brote",
+      "en": "bread",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Bruder",
+      "plural": "Brüder",
+      "en": "brother",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Brötchen",
+      "plural": "Brötchen",
+      "en": "bread roll",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Brücke",
+      "plural": "Brücken",
+      "en": "bridge",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Buch",
+      "plural": "Bücher",
+      "en": "book",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Bus",
+      "plural": "Busse",
+      "en": "bus",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Butter",
+      "plural": "Butter",
+      "en": "butter",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Bäcker",
+      "plural": "Bäcker",
+      "en": "baker",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Bäckerei",
+      "plural": "Bäckereien",
+      "en": "bakery",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Bühne",
+      "plural": "Bühnen",
+      "en": "stage",
+      "level": "B1"
+    },
+    {
+      "artikel": "das",
+      "de": "Büro",
+      "plural": "Büros",
+      "en": "office",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Cafeteria",
+      "plural": "Cafeterias",
+      "en": "cafeteria",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Café",
+      "plural": "Cafés",
+      "en": "café",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Chef",
+      "plural": "Chefs",
+      "en": "boss",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Club",
+      "plural": "Clubs",
+      "en": "club",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Comic",
+      "plural": "Comics",
+      "en": "comic",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Computer",
+      "plural": "Computer",
+      "en": "computer",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Cousin",
+      "plural": "Cousins",
+      "en": "cousin (male)",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Cousine",
+      "plural": "Cousinen",
+      "en": "cousin (female)",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Creme",
+      "plural": "Cremes",
+      "en": "cream",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Dach",
+      "plural": "Dächer",
+      "en": "roof",
+      "level": "B1"
+    },
+    {
+      "artikel": "die",
+      "de": "Datei",
+      "plural": "Dateien",
+      "en": "file (digital)",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Decke",
+      "plural": "Decken",
+      "en": "ceiling/blanket",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Ding",
+      "plural": "Dinge",
+      "en": "thing",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Dorf",
+      "plural": "Dörfer",
+      "en": "village",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Dose",
+      "plural": "Dosen",
+      "en": "can/tin",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "Drucker",
+      "plural": "Drucker",
+      "en": "printer",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Dusche",
+      "plural": "Duschen",
+      "en": "shower",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "E-Book",
+      "plural": "E-Books",
+      "en": "e-book",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "E-Mail",
+      "plural": "E-Mails",
+      "en": "email",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Ecke",
+      "plural": "Ecken",
+      "en": "corner",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Ei",
+      "plural": "Eier",
+      "en": "egg",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Eimer",
+      "plural": "Eimer",
+      "en": "bucket",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "Eingang",
+      "plural": "Eingänge",
+      "en": "entrance",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Einwohner",
+      "plural": "Einwohner",
+      "en": "inhabitant",
+      "level": "B1"
+    },
+    {
+      "artikel": "das",
+      "de": "Eis",
+      "plural": "Eis",
+      "en": "ice cream/ice",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Eltern",
+      "plural": "Eltern",
+      "en": "parents",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Ende",
+      "plural": "Enden",
+      "en": "end",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Enkel",
+      "plural": "Enkel",
+      "en": "grandchild",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Erdgeschoss",
+      "plural": "Erdgeschosse",
+      "en": "ground floor",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Erfahrung",
+      "plural": "Erfahrungen",
+      "en": "experience",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Ermäßigung",
+      "plural": "Ermäßigungen",
+      "en": "discount",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Essen",
+      "plural": "Essen",
+      "en": "food/meal",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Fabrik",
+      "plural": "Fabriken",
+      "en": "factory",
+      "level": "B1"
+    },
+    {
+      "artikel": "das",
+      "de": "Fach",
+      "plural": "Fächer",
+      "en": "subject/compartment",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Fahne",
+      "plural": "Fahnen",
+      "en": "flag",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "Fahrer",
+      "plural": "Fahrer",
+      "en": "driver",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Fahrkarte",
+      "plural": "Fahrkarten",
+      "en": "ticket",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Fahrplan",
+      "plural": "Fahrpläne",
+      "en": "timetable",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Fahrrad",
+      "plural": "Fahrräder",
+      "en": "bicycle",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Fahrzeug",
+      "plural": "Fahrzeuge",
+      "en": "vehicle",
+      "level": "B1"
+    },
+    {
+      "artikel": "die",
+      "de": "Familie",
+      "plural": "Familien",
+      "en": "family",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Fan",
+      "plural": "Fans",
+      "en": "fan",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Farbe",
+      "plural": "Farben",
+      "en": "color",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Fehler",
+      "plural": "Fehler",
+      "en": "mistake",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Feld",
+      "plural": "Felder",
+      "en": "field",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "Felsen",
+      "plural": "Felsen",
+      "en": "rock/cliff",
+      "level": "B1"
+    },
+    {
+      "artikel": "das",
+      "de": "Fenster",
+      "plural": "Fenster",
+      "en": "window",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Ferien",
+      "plural": "Ferien",
+      "en": "holidays",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Fernseher",
+      "plural": "Fernseher",
+      "en": "television",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Fest",
+      "plural": "Feste",
+      "en": "festival/celebration",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Festival",
+      "plural": "Festivals",
+      "en": "festival",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Feuer",
+      "plural": "Feuer",
+      "en": "fire",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Film",
+      "plural": "Filme",
+      "en": "film",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Firma",
+      "plural": "Firmen",
+      "en": "company",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Fisch",
+      "plural": "Fische",
+      "en": "fish",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Flasche",
+      "plural": "Flaschen",
+      "en": "bottle",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Fleisch",
+      "plural": "Fleisch",
+      "en": "meat",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Flohmarkt",
+      "plural": "Flohmärkte",
+      "en": "flea market",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Flug",
+      "plural": "Flüge",
+      "en": "flight",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Flughafen",
+      "plural": "Flughäfen",
+      "en": "airport",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Flugzeug",
+      "plural": "Flugzeuge",
+      "en": "airplane",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Flur",
+      "plural": "Flure",
+      "en": "hallway",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "Fluss",
+      "plural": "Flüsse",
+      "en": "river",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Formular",
+      "plural": "Formulare",
+      "en": "form",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Foto",
+      "plural": "Fotos",
+      "en": "photo",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Fotoapparat",
+      "plural": "Fotoapparate",
+      "en": "camera",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Frage",
+      "plural": "Fragen",
+      "en": "question",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Frau",
+      "plural": "Frauen",
+      "en": "woman",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Freizeit",
+      "plural": "Freizeit",
+      "en": "free time",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Freund",
+      "plural": "Freunde",
+      "en": "friend",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Friseur",
+      "plural": "Friseure",
+      "en": "hairdresser",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Frosch",
+      "plural": "Frösche",
+      "en": "frog",
+      "level": "B1"
+    },
+    {
+      "artikel": "das",
+      "de": "Frühstück",
+      "plural": "Frühstücke",
+      "en": "breakfast",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Fuß",
+      "plural": "Füße",
+      "en": "foot",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Fußball",
+      "plural": "Fußbälle",
+      "en": "soccer",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Führerschein",
+      "plural": "Führerscheine",
+      "en": "driver's license",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Gabel",
+      "plural": "Gabeln",
+      "en": "fork",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Garage",
+      "plural": "Garagen",
+      "en": "garage",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Gardine",
+      "plural": "Gardinen",
+      "en": "curtain",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "Garten",
+      "plural": "Gärten",
+      "en": "garden",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Gast",
+      "plural": "Gäste",
+      "en": "guest",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Geburtstag",
+      "plural": "Geburtstage",
+      "en": "birthday",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Gebäude",
+      "plural": "Gebäude",
+      "en": "building",
+      "level": "B1"
+    },
+    {
+      "artikel": "das",
+      "de": "Gebüsch",
+      "plural": "Gebüsche",
+      "en": "bushes",
+      "level": "B1"
+    },
+    {
+      "artikel": "das",
+      "de": "Gefängnis",
+      "plural": "Gefängnisse",
+      "en": "prison",
+      "level": "B1"
+    },
+    {
+      "artikel": "die",
+      "de": "Gegend",
+      "plural": "Gegenden",
+      "en": "area/region",
+      "level": "B1"
+    },
+    {
+      "artikel": "das",
+      "de": "Gehalt",
+      "plural": "Gehälter",
+      "en": "salary",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Geld",
+      "plural": "Gelder",
+      "en": "money",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Geldbörse",
+      "plural": "Geldbörsen",
+      "en": "wallet",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Geländer",
+      "plural": "Geländer",
+      "en": "railing",
+      "level": "B1"
+    },
+    {
+      "artikel": "das",
+      "de": "Gemüse",
+      "plural": "Gemüse",
+      "en": "vegetables",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Gepäck",
+      "plural": "Gepäck",
+      "en": "luggage",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Gericht",
+      "plural": "Gerichte",
+      "en": "dish/meal",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Gerät",
+      "plural": "Geräte",
+      "en": "device",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Geschenk",
+      "plural": "Geschenke",
+      "en": "gift",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Geschirr",
+      "plural": "Geschirr",
+      "en": "dishes",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Geschäft",
+      "plural": "Geschäfte",
+      "en": "shop",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Gesicht",
+      "plural": "Gesichter",
+      "en": "face",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Gespräch",
+      "plural": "Gespräche",
+      "en": "conversation",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Getränk",
+      "plural": "Getränke",
+      "en": "drink",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Gewitter",
+      "plural": "Gewitter",
+      "en": "thunderstorm",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Gitarre",
+      "plural": "Gitarren",
+      "en": "guitar",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Glas",
+      "plural": "Gläser",
+      "en": "glass",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Gleis",
+      "plural": "Gleise",
+      "en": "track/platform",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Grippe",
+      "plural": "Grippe",
+      "en": "flu",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Großeltern",
+      "plural": "Großeltern",
+      "en": "grandparents",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Gruppe",
+      "plural": "Gruppen",
+      "en": "group",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Haar",
+      "plural": "Haare",
+      "en": "hair",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Hafen",
+      "plural": "Häfen",
+      "en": "harbor/port",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "Hals",
+      "plural": "Hälse",
+      "en": "neck/throat",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Haltestelle",
+      "plural": "Haltestellen",
+      "en": "stop",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Hamburger",
+      "plural": "Hamburger",
+      "en": "hamburger",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Hand",
+      "plural": "Hände",
+      "en": "hand",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Handtuch",
+      "plural": "Handtücher",
+      "en": "towel",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Handwerker",
+      "plural": "Handwerker",
+      "en": "craftsman",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Handy",
+      "plural": "Handys",
+      "en": "mobile phone",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Hauptstadt",
+      "plural": "Hauptstädte",
+      "en": "capital city",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Haus",
+      "plural": "Häuser",
+      "en": "house",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Hausaufgabe",
+      "plural": "Hausaufgaben",
+      "en": "homework",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Haushalt",
+      "plural": "Haushalte",
+      "en": "household",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Heft",
+      "plural": "Hefte",
+      "en": "notebook",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Heizung",
+      "plural": "Heizungen",
+      "en": "heating",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Helm",
+      "plural": "Helme",
+      "en": "helmet",
+      "level": "B1"
+    },
+    {
+      "artikel": "das",
+      "de": "Hemd",
+      "plural": "Hemden",
+      "en": "shirt",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Herd",
+      "plural": "Herde",
+      "en": "stove",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Herr",
+      "plural": "Herren",
+      "en": "Mr./gentleman",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Hilfe",
+      "plural": "Hilfen",
+      "en": "help",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Himmel",
+      "plural": "Himmel",
+      "en": "sky",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Hobby",
+      "plural": "Hobbys",
+      "en": "hobby",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Hochzeit",
+      "plural": "Hochzeiten",
+      "en": "wedding",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Holz",
+      "plural": "Hölzer",
+      "en": "wood",
+      "level": "B1"
+    },
+    {
+      "artikel": "die",
+      "de": "Homepage",
+      "plural": "Homepages",
+      "en": "homepage",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Hose",
+      "plural": "Hosen",
+      "en": "pants/trousers",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Hotel",
+      "plural": "Hotels",
+      "en": "hotel",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Hund",
+      "plural": "Hunde",
+      "en": "dog",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Hähnchen",
+      "plural": "Hähnchen",
+      "en": "chicken",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Hügel",
+      "plural": "Hügel",
+      "en": "hill",
+      "level": "B1"
+    },
+    {
+      "artikel": "die",
+      "de": "Idee",
+      "plural": "Ideen",
+      "en": "idea",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Insel",
+      "plural": "Inseln",
+      "en": "island",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Instrument",
+      "plural": "Instrumente",
+      "en": "instrument",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Interesse",
+      "plural": "Interessen",
+      "en": "interest",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Interview",
+      "plural": "Interviews",
+      "en": "interview",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Jacke",
+      "plural": "Jacken",
+      "en": "jacket",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Jeans",
+      "plural": "Jeans",
+      "en": "jeans",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Job",
+      "plural": "Jobs",
+      "en": "job",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Journalist",
+      "plural": "Journalisten",
+      "en": "journalist",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Jugendherberge",
+      "plural": "Jugendherbergen",
+      "en": "youth hostel",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Junge",
+      "plural": "Jungen",
+      "en": "boy",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Kabine",
+      "plural": "Kabinen",
+      "en": "cabin",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "Kaffee",
+      "plural": "Kaffees",
+      "en": "coffee",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Kalender",
+      "plural": "Kalender",
+      "en": "calendar",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Kamera",
+      "plural": "Kameras",
+      "en": "camera",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Kamin",
+      "plural": "Kamine",
+      "en": "fireplace",
+      "level": "B1"
+    },
+    {
+      "artikel": "die",
+      "de": "Kanne",
+      "plural": "Kannen",
+      "en": "pot/jug",
+      "level": "B1"
+    },
+    {
+      "artikel": "die",
+      "de": "Karte",
+      "plural": "Karten",
+      "en": "card/map/menu",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Kartoffel",
+      "plural": "Kartoffeln",
+      "en": "potato",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Kasse",
+      "plural": "Kassen",
+      "en": "cash register",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Katze",
+      "plural": "Katzen",
+      "en": "cat",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Kaufhaus",
+      "plural": "Kaufhäuser",
+      "en": "department store",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Keller",
+      "plural": "Keller",
+      "en": "basement/cellar",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Kellner",
+      "plural": "Kellner",
+      "en": "waiter",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Kerze",
+      "plural": "Kerzen",
+      "en": "candle",
+      "level": "B1"
+    },
+    {
+      "artikel": "die",
+      "de": "Kette",
+      "plural": "Ketten",
+      "en": "necklace/chain",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Kind",
+      "plural": "Kinder",
+      "en": "child",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Kindergarten",
+      "plural": "Kindergärten",
+      "en": "kindergarten",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Kino",
+      "plural": "Kinos",
+      "en": "cinema",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Kirche",
+      "plural": "Kirchen",
+      "en": "church",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Kissen",
+      "plural": "Kissen",
+      "en": "pillow/cushion",
+      "level": "B1"
+    },
+    {
+      "artikel": "die",
+      "de": "Klasse",
+      "plural": "Klassen",
+      "en": "class",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Klavier",
+      "plural": "Klaviere",
+      "en": "piano",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Kleid",
+      "plural": "Kleider",
+      "en": "dress",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Kleidung",
+      "plural": "Kleidung",
+      "en": "clothing",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Knopf",
+      "plural": "Knöpfe",
+      "en": "button",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "Koch",
+      "plural": "Köche",
+      "en": "cook",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Koffer",
+      "plural": "Koffer",
+      "en": "suitcase",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Kollege",
+      "plural": "Kollegen",
+      "en": "colleague",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Konto",
+      "plural": "Konten",
+      "en": "account",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Konzert",
+      "plural": "Konzerte",
+      "en": "concert",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Kopf",
+      "plural": "Köpfe",
+      "en": "head",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Korb",
+      "plural": "Körbe",
+      "en": "basket",
+      "level": "B1"
+    },
+    {
+      "artikel": "das",
+      "de": "Kraftwerk",
+      "plural": "Kraftwerke",
+      "en": "power plant",
+      "level": "B1"
+    },
+    {
+      "artikel": "das",
+      "de": "Krankenhaus",
+      "plural": "Krankenhäuser",
+      "en": "hospital",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Krawatte",
+      "plural": "Krawatten",
+      "en": "tie",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "Kreis",
+      "plural": "Kreise",
+      "en": "circle/district",
+      "level": "B1"
+    },
+    {
+      "artikel": "die",
+      "de": "Kreuzung",
+      "plural": "Kreuzungen",
+      "en": "intersection",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Krimi",
+      "plural": "Krimis",
+      "en": "crime story",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Kuchen",
+      "plural": "Kuchen",
+      "en": "cake",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Kugelschreiber",
+      "plural": "Kugelschreiber",
+      "en": "pen",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Kunde",
+      "plural": "Kunden",
+      "en": "customer",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Kurs",
+      "plural": "Kurse",
+      "en": "course",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Käse",
+      "plural": "Käse",
+      "en": "cheese",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Körper",
+      "plural": "Körper",
+      "en": "body",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Küche",
+      "plural": "Küchen",
+      "en": "kitchen",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Kühlschrank",
+      "plural": "Kühlschränke",
+      "en": "refrigerator",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Künstler",
+      "plural": "Künstler",
+      "en": "artist",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Küste",
+      "plural": "Küsten",
+      "en": "coast",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "Laden",
+      "plural": "Läden",
+      "en": "shop",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Lampe",
+      "plural": "Lampen",
+      "en": "lamp",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Land",
+      "plural": "Länder",
+      "en": "country",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Landschaft",
+      "plural": "Landschaften",
+      "en": "landscape",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Laptop",
+      "plural": "Laptops",
+      "en": "laptop",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Lastwagen",
+      "plural": "Lastwagen",
+      "en": "truck",
+      "level": "B1"
+    },
+    {
+      "artikel": "das",
+      "de": "Leben",
+      "plural": "Leben",
+      "en": "life",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Lehrer",
+      "plural": "Lehrer",
+      "en": "teacher",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Leiter",
+      "plural": "Leitern",
+      "en": "ladder",
+      "level": "B1"
+    },
+    {
+      "artikel": "das",
+      "de": "Licht",
+      "plural": "Lichter",
+      "en": "light",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Lied",
+      "plural": "Lieder",
+      "en": "song",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Link",
+      "plural": "Links",
+      "en": "link",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Lokal",
+      "plural": "Lokale",
+      "en": "restaurant",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Löffel",
+      "plural": "Löffel",
+      "en": "spoon",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Lösung",
+      "plural": "Lösungen",
+      "en": "solution",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Magen",
+      "plural": "Mägen",
+      "en": "stomach",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Mann",
+      "plural": "Männer",
+      "en": "man",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Mannschaft",
+      "plural": "Mannschaften",
+      "en": "team",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Mantel",
+      "plural": "Mäntel",
+      "en": "coat",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Markt",
+      "plural": "Märkte",
+      "en": "market",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Maschine",
+      "plural": "Maschinen",
+      "en": "machine",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Mechaniker",
+      "plural": "Mechaniker",
+      "en": "mechanic",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Medikament",
+      "plural": "Medikamente",
+      "en": "medication",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Meer",
+      "plural": "Meere",
+      "en": "sea",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Mensch",
+      "plural": "Menschen",
+      "en": "person",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Messe",
+      "plural": "Messen",
+      "en": "fair/trade show",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Messer",
+      "plural": "Messer",
+      "en": "knife",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Miete",
+      "plural": "Mieten",
+      "en": "rent",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Mikrofon",
+      "plural": "Mikrofone",
+      "en": "microphone",
+      "level": "B1"
+    },
+    {
+      "artikel": "die",
+      "de": "Milch",
+      "plural": "Milch",
+      "en": "milk",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Mineralwasser",
+      "plural": "Mineralwasser",
+      "en": "mineral water",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Mobiltelefon",
+      "plural": "Mobiltelefone",
+      "en": "mobile phone",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Mode",
+      "plural": "Moden",
+      "en": "fashion",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Motor",
+      "plural": "Motoren",
+      "en": "engine",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Mund",
+      "plural": "Münder",
+      "en": "mouth",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Museum",
+      "plural": "Museen",
+      "en": "museum",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Musik",
+      "plural": "Musik",
+      "en": "music",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Musiker",
+      "plural": "Musiker",
+      "en": "musician",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Mutter",
+      "plural": "Mütter",
+      "en": "mother",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Mädchen",
+      "plural": "Mädchen",
+      "en": "girl",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Möbel",
+      "plural": "Möbel",
+      "en": "furniture",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Müll",
+      "plural": "Müll",
+      "en": "trash/garbage",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Mülltonne",
+      "plural": "Mülltonnen",
+      "en": "trash can",
+      "level": "B1"
+    },
+    {
+      "artikel": "die",
+      "de": "Münze",
+      "plural": "Münzen",
+      "en": "coin",
+      "level": "B1"
+    },
+    {
+      "artikel": "die",
+      "de": "Mütze",
+      "plural": "Mützen",
+      "en": "cap/hat",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Nachbar",
+      "plural": "Nachbarn",
+      "en": "neighbor",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Nachricht",
+      "plural": "Nachrichten",
+      "en": "message/news",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Nadel",
+      "plural": "Nadeln",
+      "en": "needle",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "Name",
+      "plural": "Namen",
+      "en": "name",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Natur",
+      "plural": "Natur",
+      "en": "nature",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Note",
+      "plural": "Noten",
+      "en": "grade",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Nudel",
+      "plural": "Nudeln",
+      "en": "noodle/pasta",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Nummer",
+      "plural": "Nummern",
+      "en": "number",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Obst",
+      "plural": "Obst",
+      "en": "fruit",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Ofen",
+      "plural": "Öfen",
+      "en": "oven",
+      "level": "B1"
+    },
+    {
+      "artikel": "das",
+      "de": "Ohr",
+      "plural": "Ohren",
+      "en": "ear",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Onkel",
+      "plural": "Onkel",
+      "en": "uncle",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Orange",
+      "plural": "Orangen",
+      "en": "orange",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Ort",
+      "plural": "Orte",
+      "en": "place",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Paket",
+      "plural": "Pakete",
+      "en": "package",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Palme",
+      "plural": "Palmen",
+      "en": "palm tree",
+      "level": "B1"
+    },
+    {
+      "artikel": "das",
+      "de": "Papier",
+      "plural": "Papiere",
+      "en": "paper",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Parfüm",
+      "plural": "Parfüms",
+      "en": "perfume",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Park",
+      "plural": "Parks",
+      "en": "park",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Partner",
+      "plural": "Partner",
+      "en": "partner",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Party",
+      "plural": "Partys",
+      "en": "party",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Pass",
+      "plural": "Pässe",
+      "en": "passport",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Passwort",
+      "plural": "Passwörter",
+      "en": "password",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Pause",
+      "plural": "Pausen",
+      "en": "break",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Person",
+      "plural": "Personen",
+      "en": "person",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Pfanne",
+      "plural": "Pfannen",
+      "en": "pan",
+      "level": "B1"
+    },
+    {
+      "artikel": "das",
+      "de": "Pferd",
+      "plural": "Pferde",
+      "en": "horse",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Pflanze",
+      "plural": "Pflanzen",
+      "en": "plant",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Pizza",
+      "plural": "Pizzas",
+      "en": "pizza",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Plakat",
+      "plural": "Plakate",
+      "en": "poster/sign",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Plan",
+      "plural": "Pläne",
+      "en": "plan",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Platz",
+      "plural": "Plätze",
+      "en": "place/seat",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Polizei",
+      "plural": "Polizei",
+      "en": "police",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Polizist",
+      "plural": "Polizisten",
+      "en": "police officer",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Portion",
+      "plural": "Portionen",
+      "en": "portion",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Post",
+      "plural": "Post",
+      "en": "post office",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Poster",
+      "plural": "Poster",
+      "en": "poster",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Postkarte",
+      "plural": "Postkarten",
+      "en": "postcard",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Preis",
+      "plural": "Preise",
+      "en": "price",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Problem",
+      "plural": "Probleme",
+      "en": "problem",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Produkt",
+      "plural": "Produkte",
+      "en": "product",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Programm",
+      "plural": "Programme",
+      "en": "program",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Projekt",
+      "plural": "Projekte",
+      "en": "project",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Prüfung",
+      "plural": "Prüfungen",
+      "en": "exam",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Pullover",
+      "plural": "Pullover",
+      "en": "sweater",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Qualität",
+      "plural": "Qualitäten",
+      "en": "quality",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Radio",
+      "plural": "Radios",
+      "en": "radio",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Rathaus",
+      "plural": "Rathäuser",
+      "en": "town hall",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Raum",
+      "plural": "Räume",
+      "en": "room",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Rechnung",
+      "plural": "Rechnungen",
+      "en": "bill",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Regal",
+      "plural": "Regale",
+      "en": "shelf",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "Regen",
+      "plural": "Regen",
+      "en": "rain",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Regenschirm",
+      "plural": "Regenschirme",
+      "en": "umbrella",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "Reifen",
+      "plural": "Reifen",
+      "en": "tire",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Reihe",
+      "plural": "Reihen",
+      "en": "row",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Reinigung",
+      "plural": "Reinigungen",
+      "en": "dry cleaning",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Reis",
+      "plural": "Reis",
+      "en": "rice",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Reise",
+      "plural": "Reisen",
+      "en": "trip",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Rentner",
+      "plural": "Rentner",
+      "en": "retiree",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Restaurant",
+      "plural": "Restaurants",
+      "en": "restaurant",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Rezept",
+      "plural": "Rezepte",
+      "en": "recipe/prescription",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Rind",
+      "plural": "Rinder",
+      "en": "beef/cattle",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Ring",
+      "plural": "Ringe",
+      "en": "ring",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Rock",
+      "plural": "Röcke",
+      "en": "skirt",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Rollstuhl",
+      "plural": "Rollstühle",
+      "en": "wheelchair",
+      "level": "B1"
+    },
+    {
+      "artikel": "die",
+      "de": "Rose",
+      "plural": "Rosen",
+      "en": "rose",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Rucksack",
+      "plural": "Rucksäcke",
+      "en": "backpack",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Rutsche",
+      "plural": "Rutschen",
+      "en": "slide",
+      "level": "B1"
+    },
+    {
+      "artikel": "das",
+      "de": "Rätsel",
+      "plural": "Rätsel",
+      "en": "puzzle/riddle",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Rücken",
+      "plural": "Rücken",
+      "en": "back (body)",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Sache",
+      "plural": "Sachen",
+      "en": "thing/item",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Sack",
+      "plural": "Säcke",
+      "en": "sack/bag",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "Saft",
+      "plural": "Säfte",
+      "en": "juice",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Salat",
+      "plural": "Salate",
+      "en": "salad",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Salz",
+      "plural": "Salze",
+      "en": "salt",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Satz",
+      "plural": "Sätze",
+      "en": "sentence",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Schachtel",
+      "plural": "Schachteln",
+      "en": "box",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "Schalter",
+      "plural": "Schalter",
+      "en": "counter",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Schaufel",
+      "plural": "Schaufeln",
+      "en": "shovel",
+      "level": "B1"
+    },
+    {
+      "artikel": "die",
+      "de": "Schaukel",
+      "plural": "Schaukeln",
+      "en": "swing",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "Schauspieler",
+      "plural": "Schauspieler",
+      "en": "actor",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Schere",
+      "plural": "Scheren",
+      "en": "scissors",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Schiff",
+      "plural": "Schiffe",
+      "en": "ship",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Schild",
+      "plural": "Schilder",
+      "en": "sign",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Schinken",
+      "plural": "Schinken",
+      "en": "ham",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Schirm",
+      "plural": "Schirme",
+      "en": "umbrella",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Schlafzimmer",
+      "plural": "Schlafzimmer",
+      "en": "bedroom",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Schlauch",
+      "plural": "Schläuche",
+      "en": "hose",
+      "level": "B1"
+    },
+    {
+      "artikel": "das",
+      "de": "Schloss",
+      "plural": "Schlösser",
+      "en": "castle/lock",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Schlüssel",
+      "plural": "Schlüssel",
+      "en": "key",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Schmerz",
+      "plural": "Schmerzen",
+      "en": "pain",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Schnee",
+      "plural": "Schnee",
+      "en": "snow",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Schokolade",
+      "plural": "Schokoladen",
+      "en": "chocolate",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Schrank",
+      "plural": "Schränke",
+      "en": "cupboard/wardrobe",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Schublade",
+      "plural": "Schubladen",
+      "en": "drawer",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "Schuh",
+      "plural": "Schuhe",
+      "en": "shoe",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Schule",
+      "plural": "Schulen",
+      "en": "school",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Schwein",
+      "plural": "Schweine",
+      "en": "pig",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Schwester",
+      "plural": "Schwestern",
+      "en": "sister",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Schwimmbad",
+      "plural": "Schwimmbäder",
+      "en": "swimming pool",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Schüler",
+      "plural": "Schüler",
+      "en": "student",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Schüssel",
+      "plural": "Schüsseln",
+      "en": "bowl",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "See",
+      "plural": "Seen",
+      "en": "lake",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Seife",
+      "plural": "Seifen",
+      "en": "soap",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Seite",
+      "plural": "Seiten",
+      "en": "page/side",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Sendung",
+      "plural": "Sendungen",
+      "en": "show/broadcast",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Ski",
+      "plural": "Ski",
+      "en": "ski",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Sofa",
+      "plural": "Sofas",
+      "en": "sofa",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Sohn",
+      "plural": "Söhne",
+      "en": "son",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Sonne",
+      "plural": "Sonnen",
+      "en": "sun",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Speisekarte",
+      "plural": "Speisekarten",
+      "en": "menu",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Spiegel",
+      "plural": "Spiegel",
+      "en": "mirror",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "Sport",
+      "plural": "Sport",
+      "en": "sport",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Sportplatz",
+      "plural": "Sportplätze",
+      "en": "sports field",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Sprache",
+      "plural": "Sprachen",
+      "en": "language",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Spülmaschine",
+      "plural": "Spülmaschinen",
+      "en": "dishwasher",
+      "level": "B1"
+    },
+    {
+      "artikel": "die",
+      "de": "Stadt",
+      "plural": "Städte",
+      "en": "city",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Stadtplan",
+      "plural": "Stadtpläne",
+      "en": "city map",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Star",
+      "plural": "Stars",
+      "en": "star (celebrity)",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Stecker",
+      "plural": "Stecker",
+      "en": "plug",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "Stein",
+      "plural": "Steine",
+      "en": "stone",
+      "level": "B1"
+    },
+    {
+      "artikel": "die",
+      "de": "Stelle",
+      "plural": "Stellen",
+      "en": "position",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Stiefel",
+      "plural": "Stiefel",
+      "en": "boot",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Stift",
+      "plural": "Stifte",
+      "en": "pen",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Stoff",
+      "plural": "Stoffe",
+      "en": "fabric/material",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "Strand",
+      "plural": "Strände",
+      "en": "beach",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Strauß",
+      "plural": "Sträuße",
+      "en": "bouquet",
+      "level": "B1"
+    },
+    {
+      "artikel": "die",
+      "de": "Straße",
+      "plural": "Straßen",
+      "en": "street",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Straßenbahn",
+      "plural": "Straßenbahnen",
+      "en": "tram",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Stress",
+      "plural": "Stress",
+      "en": "stress",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Student",
+      "plural": "Studenten",
+      "en": "student",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Stuhl",
+      "plural": "Stühle",
+      "en": "chair",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Stunde",
+      "plural": "Stunden",
+      "en": "hour",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Stück",
+      "plural": "Stücke",
+      "en": "piece",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Supermarkt",
+      "plural": "Supermärkte",
+      "en": "supermarket",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Suppe",
+      "plural": "Suppen",
+      "en": "soup",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Säule",
+      "plural": "Säulen",
+      "en": "column/pillar",
+      "level": "B1"
+    },
+    {
+      "artikel": "die",
+      "de": "Süßigkeiten",
+      "plural": "Süßigkeiten",
+      "en": "sweets/candy",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "T-Shirt",
+      "plural": "T-Shirts",
+      "en": "t-shirt",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Tablet",
+      "plural": "Tablets",
+      "en": "tablet",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Tablette",
+      "plural": "Tabletten",
+      "en": "tablet/pill",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Tafel",
+      "plural": "Tafeln",
+      "en": "board/blackboard",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Tante",
+      "plural": "Tanten",
+      "en": "aunt",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Tasche",
+      "plural": "Taschen",
+      "en": "bag",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Taschengeld",
+      "plural": "Taschengeld",
+      "en": "pocket money",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Tasse",
+      "plural": "Tassen",
+      "en": "cup",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Taxi",
+      "plural": "Taxis",
+      "en": "taxi",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Team",
+      "plural": "Teams",
+      "en": "team",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Tee",
+      "plural": "Tees",
+      "en": "tea",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Telefon",
+      "plural": "Telefone",
+      "en": "telephone",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Teller",
+      "plural": "Teller",
+      "en": "plate",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Tennis",
+      "plural": "Tennis",
+      "en": "tennis",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Teppich",
+      "plural": "Teppiche",
+      "en": "carpet",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "Termin",
+      "plural": "Termine",
+      "en": "appointment",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Test",
+      "plural": "Tests",
+      "en": "test",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Text",
+      "plural": "Texte",
+      "en": "text",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Theater",
+      "plural": "Theater",
+      "en": "theater",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Ticket",
+      "plural": "Tickets",
+      "en": "ticket",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Tier",
+      "plural": "Tiere",
+      "en": "animal",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Tipp",
+      "plural": "Tipps",
+      "en": "tip/advice",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Tisch",
+      "plural": "Tische",
+      "en": "table",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Tochter",
+      "plural": "Töchter",
+      "en": "daughter",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Toilette",
+      "plural": "Toiletten",
+      "en": "toilet",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Tomate",
+      "plural": "Tomaten",
+      "en": "tomato",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Topf",
+      "plural": "Töpfe",
+      "en": "pot",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Torte",
+      "plural": "Torten",
+      "en": "cake/torte",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Tour",
+      "plural": "Touren",
+      "en": "tour",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Tourist",
+      "plural": "Touristen",
+      "en": "tourist",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Traum",
+      "plural": "Träume",
+      "en": "dream",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Treppe",
+      "plural": "Treppen",
+      "en": "stairs",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Turm",
+      "plural": "Türme",
+      "en": "tower",
+      "level": "B1"
+    },
+    {
+      "artikel": "die",
+      "de": "Tür",
+      "plural": "Türen",
+      "en": "door",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Tüte",
+      "plural": "Tüten",
+      "en": "bag (paper/plastic)",
+      "level": "B1"
+    },
+    {
+      "artikel": "die",
+      "de": "Uhr",
+      "plural": "Uhren",
+      "en": "clock/watch",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Unfall",
+      "plural": "Unfälle",
+      "en": "accident",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Universität",
+      "plural": "Universitäten",
+      "en": "university",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Unterkunft",
+      "plural": "Unterkünfte",
+      "en": "accommodation",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Unterricht",
+      "plural": "Unterricht",
+      "en": "lesson",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Urlaub",
+      "plural": "Urlaube",
+      "en": "vacation",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Vase",
+      "plural": "Vasen",
+      "en": "vase",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "Vater",
+      "plural": "Väter",
+      "en": "father",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Veranstaltung",
+      "plural": "Veranstaltungen",
+      "en": "event",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Verein",
+      "plural": "Vereine",
+      "en": "club",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Verkehr",
+      "plural": "Verkehr",
+      "en": "traffic",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Verkäufer",
+      "plural": "Verkäufer",
+      "en": "salesperson",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Vermieter",
+      "plural": "Vermieter",
+      "en": "landlord",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Verspätung",
+      "plural": "Verspätungen",
+      "en": "delay",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Vertrag",
+      "plural": "Verträge",
+      "en": "contract",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Vogel",
+      "plural": "Vögel",
+      "en": "bird",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Volleyball",
+      "plural": "Volleybälle",
+      "en": "volleyball",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Vorhang",
+      "plural": "Vorhänge",
+      "en": "curtain",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "Vorschlag",
+      "plural": "Vorschläge",
+      "en": "suggestion",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Waage",
+      "plural": "Waagen",
+      "en": "scale",
+      "level": "B1"
+    },
+    {
+      "artikel": "der",
+      "de": "Wagen",
+      "plural": "Wagen",
+      "en": "car/wagon",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Wald",
+      "plural": "Wälder",
+      "en": "forest",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Wand",
+      "plural": "Wände",
+      "en": "wall",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Waschmaschine",
+      "plural": "Waschmaschinen",
+      "en": "washing machine",
+      "level": "B1"
+    },
+    {
+      "artikel": "das",
+      "de": "Wasser",
+      "plural": "Wasser",
+      "en": "water",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Webseite",
+      "plural": "Webseiten",
+      "en": "website",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Wein",
+      "plural": "Weine",
+      "en": "wine",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Welt",
+      "plural": "Welten",
+      "en": "world",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Werkstatt",
+      "plural": "Werkstätten",
+      "en": "workshop/garage",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Wettbewerb",
+      "plural": "Wettbewerbe",
+      "en": "competition",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Wetter",
+      "plural": "Wetter",
+      "en": "weather",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Wind",
+      "plural": "Winde",
+      "en": "wind",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Witz",
+      "plural": "Witze",
+      "en": "joke",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Wohnung",
+      "plural": "Wohnungen",
+      "en": "apartment",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Wohnzimmer",
+      "plural": "Wohnzimmer",
+      "en": "living room",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Wolke",
+      "plural": "Wolken",
+      "en": "cloud",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Workshop",
+      "plural": "Workshops",
+      "en": "workshop",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Wort",
+      "plural": "Wörter",
+      "en": "word",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Wunsch",
+      "plural": "Wünsche",
+      "en": "wish",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Wurst",
+      "plural": "Würste",
+      "en": "sausage",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Wäsche",
+      "plural": "Wäsche",
+      "en": "laundry",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Wörterbuch",
+      "plural": "Wörterbücher",
+      "en": "dictionary",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Zahl",
+      "plural": "Zahlen",
+      "en": "number",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Zahn",
+      "plural": "Zähne",
+      "en": "tooth",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Zaun",
+      "plural": "Zäune",
+      "en": "fence",
+      "level": "B1"
+    },
+    {
+      "artikel": "die",
+      "de": "Zeit",
+      "plural": "Zeiten",
+      "en": "time",
+      "level": "A1"
+    },
+    {
+      "artikel": "die",
+      "de": "Zeitung",
+      "plural": "Zeitungen",
+      "en": "newspaper",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Zelt",
+      "plural": "Zelte",
+      "en": "tent",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Zentrum",
+      "plural": "Zentren",
+      "en": "center",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Zettel",
+      "plural": "Zettel",
+      "en": "note/slip",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Zeugnis",
+      "plural": "Zeugnisse",
+      "en": "certificate/report",
+      "level": "A2"
+    },
+    {
+      "artikel": "das",
+      "de": "Ziel",
+      "plural": "Ziele",
+      "en": "goal/destination",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Zigarette",
+      "plural": "Zigaretten",
+      "en": "cigarette",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Zimmer",
+      "plural": "Zimmer",
+      "en": "room",
+      "level": "A1"
+    },
+    {
+      "artikel": "der",
+      "de": "Zirkus",
+      "plural": "Zirkusse",
+      "en": "circus",
+      "level": "A2"
+    },
+    {
+      "artikel": "die",
+      "de": "Zitrone",
+      "plural": "Zitronen",
+      "en": "lemon",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Zoo",
+      "plural": "Zoos",
+      "en": "zoo",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Zucker",
+      "plural": "Zucker",
+      "en": "sugar",
+      "level": "A2"
+    },
+    {
+      "artikel": "der",
+      "de": "Zug",
+      "plural": "Züge",
+      "en": "train",
+      "level": "A1"
+    },
+    {
+      "artikel": "das",
+      "de": "Öl",
+      "plural": "Öle",
+      "en": "oil",
+      "level": "A1"
+    }
+  ]
+}
